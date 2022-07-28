@@ -1,7 +1,7 @@
 # Python Bible App
 Simple Bible App with Streamlit &amp; Text Analysis
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/jcharis/streambible/main/app.py)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sanjubross-bible-app-python-app-3uyycx.streamlitapp.com/)
 
 
 #### Aim
