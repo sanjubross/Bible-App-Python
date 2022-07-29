@@ -17,6 +17,7 @@ def load_bible(data):
 from utils import HTML_BANNER
 
 def main():
+    st.set_page_config(page_icon=':book:', layout='wide')
     stc.html(HTML_BANNER.format("Holy Bible App"))
     menu = ["Home", "Multiverse", "About"]
 
