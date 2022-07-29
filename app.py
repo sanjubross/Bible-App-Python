@@ -20,7 +20,7 @@ def main():
     stc.html(HTML_BANNER.format("Holy Bible App"))
     menu = ["Home", "Multiverse", "About"]
 
-    df = load_bible("data/KJV_Bible.csv")
+    df = load_bible("data/irv.csv")
 
     choice = st.sidebar.selectbox("Menu", menu)
     if choice == "Home":
